@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="navbar-fixed">
+            <nav class="blue darken-2">
+                <div class="container nav-wrapper">
+                    <a href="@Url.Action("Index", "Home")" class="brand-logo">Home</a>
+                    <ul id="nav-mobile" class="right">
+                        <li><a href="@Url.Action("About", "Home")">Sobre</a></li>
+                        <li><a href="@Url.Action("Index", "Produto")">Produtos</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer class="page-footer blue darken-2">
+        <div class="footer-copyright">
+            <div class="container">
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

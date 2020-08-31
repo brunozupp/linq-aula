@@ -1,0 +1,44 @@
+﻿@model MeuSite.Models.Produto
+
+@{
+    ViewBag.Title = "Detalhes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="mt-40">
+        <ul class="collection with-header">
+            <li class="collection-header"><h4>Detalhes do produto</h4></li>
+            <li class="collection-item">
+                <strong>Código</strong> -
+                @Html.DisplayFor(model => model.ID)
+            </li>
+            <li class="collection-item">
+                <strong>Nome</strong> -
+                @Html.DisplayFor(model => model.Nome)
+            </li>
+            <li class="collection-item">
+                <strong>Descrição</strong> -
+                @Html.DisplayFor(model => model.Descricao)
+            </li>
+            <li class="collection-item">
+                <strong>Quantidade</strong> -
+                @Html.DisplayFor(model => model.Quantidade)
+            </li>
+            <li class="collection-item">
+                <strong>Valor Unitário</strong> - R$
+                @Html.DisplayFor(model => model.ValorUnitario)
+            </li>
+            <li class="collection-item">
+                <strong>Valor Total</strong> - R$
+                @{
+                    @Convert.ToDecimal(@Model.ValorUnitario * @Model.Quantidade).ToString("N2");
+                }
+            </li>
+        </ul>
+    </div>
+    <a href="@Url.Action("Save", "Produto", new { id = Model.ID })" class="btn blue darken-2 right">
+        Editar
+    </a>
+</div>
+

@@ -1,0 +1,158 @@
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\MeuSite.dll.config
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\MeuSite.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\MeuSite.pdb
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\csc.exe
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\csc.exe.config
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\csc.rsp
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\csi.exe
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\csi.exe.config
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\csi.rsp
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.AppContext.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Console.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Net.Http.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\vbc.exe
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\vbc.exe.config
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\vbc.rsp
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\Antlr3.Runtime.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\Newtonsoft.Json.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Helpers.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Mvc.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Optimization.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Razor.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.WebPages.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\WebGrease.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Helpers.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Mvc.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Optimization.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.Razor.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.WebPages.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\Newtonsoft.Json.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\Antlr3.Runtime.pdb
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\obj\Debug\MeuSite.csprojAssemblyReference.cache
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\obj\Debug\MeuSite.csproj.CoreCompileInputs.cache
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\obj\Debug\MeuSite.csproj.CopyComplete
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\obj\Debug\MeuSite.dll
+C:\Users\fiori\OneDrive\FACULDADE\4º ANO\8° PERÍODO\TÓPICOS EM LINGUAGENS DE PROGRAMAÇÃO II\Unifev\MeuSite\obj\Debug\MeuSite.pdb
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\MeuSite.dll.config
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\MeuSite.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\MeuSite.pdb
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\csc.exe
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\csc.exe.config
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\csc.rsp
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\csi.exe
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\csi.exe.config
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\csi.rsp
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.AppContext.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Console.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Net.Http.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\vbc.exe
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\vbc.exe.config
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\vbc.rsp
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\Antlr3.Runtime.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\Newtonsoft.Json.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Helpers.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Mvc.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Optimization.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Razor.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.WebPages.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\WebGrease.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Helpers.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Mvc.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Optimization.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.Razor.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.WebPages.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\Newtonsoft.Json.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\Antlr3.Runtime.pdb
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\obj\Debug\MeuSite.csprojAssemblyReference.cache
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\obj\Debug\MeuSite.csproj.CoreCompileInputs.cache
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\obj\Debug\MeuSite.csproj.CopyComplete
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\obj\Debug\MeuSite.dll
+C:\Users\bruni\Desktop\Semestre8\Programacao\PrimeiroBimestre\Unifev\MeuSite\obj\Debug\MeuSite.pdb

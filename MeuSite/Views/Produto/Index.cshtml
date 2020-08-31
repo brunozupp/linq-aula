@@ -1,0 +1,88 @@
+﻿@model IEnumerable<MeuSite.Models.Produto>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <h4 class="col s11">Listagem de produtos</h4>
+        <div class="col s1 right" style="padding-top: 20px">
+            <a href="@Url.Action("Save", "Produto")" class="btn-small blue darken-2">Novo</a>
+        </div>
+    </div>
+
+    @{
+
+        var css = "";
+        var message = "";
+
+        if (ViewBag.Operation != null)
+        {
+            message = ViewBag.Operation.Message;
+
+            if (ViewBag.Operation.Status)
+            {
+                css = "spacing-status-container green accent-4";
+
+            }
+            else
+            {
+                css = "spacing-status-container red darken-1";
+            }
+
+            <div id="containerMessage" class="@css">
+                <p>@message</p>
+            </div>
+        }
+    }
+
+    <table class="table highlight responsive-table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorUnitario)
+            </th>
+            <th>
+                Ações
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantidade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValorUnitario)
+                </td>
+                <td>
+                    <a href="@Url.Action("Save","Produto", new { id = item.ID })" class="btn-small" title="Editar"><i class="material-icons">edit</i></a>
+                    <a href="@Url.Action("Detalhes","Produto", new { id = item.ID })" class="btn-small deep-purple accent-4" title="Detalhes"><i class="material-icons">list</i></a>
+                    <a href="@Url.Action("Delete","Produto", new { id = item.ID })" class="btn-small red"><i class="material-icons" title="Deletar">delete</i></a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+@section scripts {
+
+    <script src="~/Content/js/produto.js"></script>
+}
