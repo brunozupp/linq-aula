@@ -6,6 +6,14 @@ window.onload = function () {
         fullWidth: true
     });
 
+    autoplay();
+
+    function autoplay() {
+        $('.carousel').carousel('next');
+        setTimeout(autoplay, 3500);
+    }
+
+    // Mensagem que vai fazer desaparecer a msg de aviso
     setTimeout(function () {
 
         var containerMessage = document.getElementById("containerMessage");
@@ -14,6 +22,45 @@ window.onload = function () {
 
         if (containerMessage != null) containerMessage.remove();
     }, 2000);
+
+    $(".btnDelete").on('click', function () {
+
+        var id = { 'id': $(this).data("id") };
+
+        console.log(id);
+
+        $.confirm({
+            boxWidth: '30%',
+            useBootstrap: false,
+            title: 'Deletar registro?',
+            content: 'Não poderá ser desfeito',
+            type: 'red',
+            typeAnimated: true,
+            buttons: {
+                confirm: {
+                    text: 'Deletar',
+                    btnClass: 'btn-red',
+                    action: function () {
+                        $.ajax({
+                            url: BASE_URL + "/Produto/Delete/",
+                            data: id,
+                            type: "POST",
+                            //data: id,
+                            success: function (result) {
+                                window.location = BASE_URL + '/Produto/';
+                            },
+                            error: function (error) {
+                               window.location = BASE_URL + '/Produto/';
+                            }
+                        });
+                    }
+                },
+                fechar: function () {
+                    
+                },
+            }
+        });
+    });
 }
 
 $("#formSave").submit(function (event) {
@@ -56,3 +103,4 @@ $("#formSave").submit(function (event) {
         return ($("#" + id).val().length <= 0) ? true : false;
     }
 });
+

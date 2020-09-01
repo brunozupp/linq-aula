@@ -78,7 +78,8 @@ namespace MeuSite.Controllers
             }
         }
 
-        public ActionResult Delete(int id)
+        [HttpPost]
+        public JsonResult Delete(int id)
         {
             try
             {
@@ -90,7 +91,7 @@ namespace MeuSite.Controllers
                     Message = "Operação realizada com sucesso"
                 };
 
-                return RedirectToAction("Index", "Produto");
+                return Json(new { status = true });
             }
             catch (Exception)
             {
@@ -100,8 +101,34 @@ namespace MeuSite.Controllers
                     Message = "Operação falhou"
                 };
 
-                return RedirectToAction("Index", "Produto");
+                return Json(new { status = false });
             }
         }
+
+        //public ActionResult Delete(int id)
+        //{
+        //    try
+        //    {
+        //        produtoBusiness.Deletar(id);
+
+        //        TempData["Operation"] = new ResponseOperation
+        //        {
+        //            Status = true,
+        //            Message = "Operação realizada com sucesso"
+        //        };
+
+        //        return RedirectToAction("Index", "Produto");
+        //    }
+        //    catch (Exception)
+        //    {
+        //        TempData["Operation"] = new ResponseOperation
+        //        {
+        //            Status = true,
+        //            Message = "Operação falhou"
+        //        };
+
+        //        return RedirectToAction("Index", "Produto");
+        //    }
+        //}
     }
 }

@@ -1,14 +1,14 @@
 ﻿// Colocar no arquivo save.js
-window.onload = function () {
+//window.onload = function () {
 
-    $('.carousel.carousel-slider').carousel({
-        fullWidth: true,
-    });
+//    $('.carousel.carousel-slider').carousel({
+//        fullWidth: true,
+//    });
 
-    autoplay();
+//    autoplay();
 
-    function autoplay() {
-        $('.carousel').carousel('next');
-        setTimeout(autoplay, 5000);
-    }
-}
+//    function autoplay() {
+//        $('.carousel').carousel('next');
+//        setTimeout(autoplay, 5000);
+//    }
+//}
