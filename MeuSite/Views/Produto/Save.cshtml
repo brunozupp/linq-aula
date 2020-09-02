@@ -25,7 +25,7 @@ else
 
     <div class="row">
 
-        @using (Html.BeginForm("", "", FormMethod.Post, new { @class = "col offset-s3 s6", id = "formSave" }))
+        @using (Html.BeginForm("Save", "Produto", FormMethod.Post, new { @class = "col offset-s3 s6" }))
         {
             @Html.AntiForgeryToken()
 
@@ -61,15 +61,11 @@ else
 
                 <div class="row row-form-field">
                     <div class="input-field col s12">
-                        @Html.EditorFor(model => model.ValorUnitario, new { htmlAttributes = new { id = "ValorUnitario", placeholder = "Digite uma valor", data_mask = "###0.00", data_mask_reverse = "true" } })
+                        @Html.EditorFor(model => model.ValorUnitario, new { htmlAttributes = new { id = "ValorUnitario", placeholder = "Digite uma valor", data_mask = "###0,00", data_mask_reverse = "true" } })
                         @Html.LabelFor(model => model.ValorUnitario, htmlAttributes: new { @class = "", @for = "ValorUnitario" })
                         @Html.ValidationMessageFor(model => model.ValorUnitario, "", new { @class = "helper-text red-text" })
                     </div>
                 </div>
-
-
-
-
 
                 <div class="right">
                     <button class="btn blue darken-2" type="submit">Salvar</button>

@@ -133,6 +133,7 @@
     </Compile>
     <Compile Include="Models\ProdutoBusiness.cs" />
     <Compile Include="Models\ResponseOperation.cs" />
+    <Compile Include="Models\Validation\ProdutoValidation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -159,6 +160,7 @@
     <Content Include="Content\midia\products\produto4.jpg" />
     <Content Include="Content\midia\products\produto5.jpg" />
     <Content Include="Content\midia\products\produto6.jpg" />
+    <Content Include="Content\Scripts\methods_pt.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />

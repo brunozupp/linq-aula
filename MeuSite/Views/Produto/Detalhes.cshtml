@@ -14,26 +14,24 @@
                 @Html.DisplayFor(model => model.ID)
             </li>
             <li class="collection-item">
-                <strong>Nome</strong> -
+                <strong>@Html.DisplayNameFor(model => model.Nome)</strong> -
                 @Html.DisplayFor(model => model.Nome)
             </li>
             <li class="collection-item">
-                <strong>Descrição</strong> -
+                <strong>@Html.DisplayNameFor(model => model.Descricao)</strong> -
                 @Html.DisplayFor(model => model.Descricao)
             </li>
             <li class="collection-item">
-                <strong>Quantidade</strong> -
+                <strong>@Html.DisplayNameFor(model => model.Quantidade)</strong> -
                 @Html.DisplayFor(model => model.Quantidade)
             </li>
             <li class="collection-item">
-                <strong>Valor Unitário</strong> - R$
+                <strong>@Html.DisplayNameFor(model => model.ValorUnitario)</strong> - R$
                 @Html.DisplayFor(model => model.ValorUnitario)
             </li>
             <li class="collection-item">
-                <strong>Valor Total</strong> - R$
-                @{
-                    @Convert.ToDecimal(@Model.ValorUnitario * @Model.Quantidade).ToString("N2");
-                }
+                <strong>@Html.DisplayNameFor(model => model.Total)</strong> - R$
+                @Html.DisplayFor(model => model.Total)
             </li>
         </ul>
     </div>

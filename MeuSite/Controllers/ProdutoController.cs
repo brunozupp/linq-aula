@@ -45,7 +45,7 @@ namespace MeuSite.Controllers
         }
 
         [HttpPost]
-        public JsonResult Save(Produto produto)
+        public ActionResult Save(Produto produto)
         {
 
             try
@@ -64,7 +64,7 @@ namespace MeuSite.Controllers
                     Message = "Operação realizada com sucesso"
                 };
 
-                return Json(new { status = true });
+                return RedirectToAction("Index");
             }
             catch (Exception)
             {
@@ -74,7 +74,7 @@ namespace MeuSite.Controllers
                     Message = "Operação falhou"
                 };
 
-                return Json(new { status = false });
+                return RedirectToAction("Index");
             }
         }
 

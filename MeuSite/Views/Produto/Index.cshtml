@@ -61,33 +61,39 @@
                 @Html.DisplayNameFor(model => model.ValorUnitario)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th>
                 Ações
             </th>
         </tr>
 
         @foreach (var item in Model)
         {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Nome)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Descricao)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Quantidade)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ValorUnitario)
-                </td>
-                <td>
-                    <a href="@Url.Action("Save","Produto", new { id = item.ID })" class="btn-small" title="Editar"><i class="material-icons">edit</i></a>
-                    <a href="@Url.Action("Detalhes","Produto", new { id = item.ID })" class="btn-small deep-purple accent-4" title="Detalhes"><i class="material-icons">list</i></a>
-                    <a href="#" class="btn-small red btnDelete" data-id="@item.ID"><i class="material-icons" title="Deletar">delete</i></a>
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantidade)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValorUnitario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Total)
+        </td>
+        <td>
+            <a href="@Url.Action("Save","Produto", new { id = item.ID })" class="btn-small" title="Editar"><i class="material-icons">edit</i></a>
+            <a href="@Url.Action("Detalhes","Produto", new { id = item.ID })" class="btn-small deep-purple accent-4" title="Detalhes"><i class="material-icons">list</i></a>
+            <a href="#" class="btn-small red btnDelete" data-id="@item.ID"><i class="material-icons" title="Deletar">delete</i></a>
 
-                    @*<a href="@Url.Action("Delete","Produto", new { id = item.ID })" class="btn-small red"><i class="material-icons" title="Deletar">delete</i></a>*@
-                </td>
-            </tr>
+            @*<a href="@Url.Action("Delete","Produto", new { id = item.ID })" class="btn-small red"><i class="material-icons" title="Deletar">delete</i></a>*@
+        </td>
+    </tr>
         }
     </table>
 </div>
